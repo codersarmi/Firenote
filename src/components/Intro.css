@@ -1,0 +1,13 @@
+.intro {
+  text-align: center;
+  color: #2773d6;
+  font-weight: 500;
+  margin-top: 1.25rem;
+}
+
+.intro_title {
+  font-size: 1.5rem;
+}
+.intro_description {
+  font-size: 1.125rem;
+}

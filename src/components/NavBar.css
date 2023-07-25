@@ -1,0 +1,16 @@
+.logo {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__note_total {
+  font-size: 1.125rem;
+  font-weight: 500;
+  background-color: #2773d6;
+  color: #fff;
+  padding: 0.625rem 1.25rem;
+  border: none;
+  border-radius: 15px;
+}
